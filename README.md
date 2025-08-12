@@ -130,8 +130,13 @@ DEFAULT_ANNUAL_LEAVE_DAYS=18
 
 -Cloud deployment with MongoDB Atlas and Load Balancer
 
+System HLD diagram:
+![System HLD diagram](https://github.com/user-attachments/assets/d1edf564-7c3c-4fef-af5f-98b162d33f17)
+
+
 📦 Deployment
 Can be deployed to Render / Railway / Heroku
 
 Use MongoDB Atlas for cloud database
+
 
